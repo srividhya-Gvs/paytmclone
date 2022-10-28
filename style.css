@@ -538,4 +538,102 @@
 	#signin{
 		margin-left: 8%;
 	}
+	.upi{
+		font-size: 10px;
+	}
+	.download{
+		font-size: 7px !important;
+	}
+	.sec2 h1{
+		font-size: 12px;
+	}
+	.sec2 p{
+             font-size: 7px;
+	}
+	.sec3div{
+		flex-direction: column;
+		align-items: center;
+	}
+        .div1 h1{
+		font-size: 11px;
+	}
+	.sec5 h1{
+		font-size: 10px;
+	}
+	.div1 p{
+		font-size: 4px;
+	}
+	.div2 p{
+		font-size: 6px;
+	}
+	.div3 p{
+		font-size: 5px;
+	}
+	.div3 a{
+		font-size: 8px;
+	}
+	.div411 p{
+		font-size: 4px;
+	}
+	.div422 p{
+		font-size: 4px;
+	}
+	/*.sec6 h1{
+		font-size: 10px;
+	}*/
+	.div61 p{
+		font-size: 7px;
+	}
+	.div61 h1{
+		font-size:10px;
+	}
+	.div61 a{
+		font-size: 8px;
+	}
+	.sec6 h1{
+		font-size: 12px;
+	}
+	.div111 h1{
+		font-size: 12px;
+	}
+	.div111 p{
+		font-size: 5px;
+	}
+	.div111 a{
+		font-size: 8px;
+	}
+	.div71 p{
+		font-size: 5px;
+	}
+	.div71 h1{
+		font-size: 10px;
+	}
+	.div71 a{
+		font-size: 8px;
+	}
+	.div81 h1{
+		font-size: 10px;
+	}
+	.div81 p{
+		font-size: 7px;
+	}
+	.div81 a{
+		font-size: 8px;
+	}
+	.div91 h1{
+		font-size: 12px;
+	}
+	.div91 p{
+		font-size: 10px;
+	}
+	.div92 h1{
+		font-size: 12px;
+	}
+	.div92 p{
+		font-size: 10px;
+	}
+	.tool h1{
+		font-size: 8px;
+	}
+
 }
